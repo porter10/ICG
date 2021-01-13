@@ -1,0 +1,1 @@
+1.) changed the value in /proc/sys/fs/inotify/max_user_watches from 8192 to 524288
